@@ -1,0 +1,9 @@
+{
+	"ip":"Server4Free.aternos.me:25552",
+	"port": 25552,
+	"name": "op",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
+	"login-cmd":"/login (type_ur_pass_here)"
+}
